@@ -39,7 +39,7 @@ No **setor corporativo**, trabalhei como **Engenheiro de Dados** numa empresa na
 * Otimização de bancos de dados com formatos estruturados para *Big Data*, como **Parquet** (e experimentos com **GeoParquet**).
 * Computação em nuvem, com conhecimentos em **Microsoft Cloud** e **AWS** (sendo a AWS o foco que impulsionou minha efetivação como programador).
 
-A pesquisa de doutorado também viabilizou o aprofundamento no desenvolvimento de *pipelines* de tratamento de dados — especialmente dados RAW governamentais — para torná-los inteligíveis para o público e subsidiar estudos.
+A pesquisa de doutorado também viabilizou o aprofundamento no desenvolvimento de *pipelines* de tratamento de dados, especialmente dados RAW governamentais, para torná-los inteligíveis para o público e subsidiar estudos.
 
 ## 📚 Produção Técnico-Científica e Resultados
 
